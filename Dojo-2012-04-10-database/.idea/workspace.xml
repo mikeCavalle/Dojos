@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" name="Default" comment="" />
+    <ignored path="dojo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/db.properties" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365064109531" ignored="false" />
+    <file path="/MyTest.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365589318131" ignored="false" />
+    <file path="/application-context.xml" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365070662590" ignored="false" />
+    <file path="/Database.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365070882178" ignored="false" />
+    <file path="/fragment.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365583194495" ignored="false" />
+    <file path="/AbstractJdbcTest.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365071388823" ignored="false" />
+    <file path="/logback.xml" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365322569774" ignored="false" />
+    <file path="/AbstractDbTest.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365603139662" ignored="false" />
+    <file path="/schema.sql" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365078321521" ignored="false" />
+    <file path="/data.sql" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365078341552" ignored="false" />
+    <file path="/readme.txt" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365080585985" ignored="false" />
+    <file path="/Main.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365428043020" ignored="false" />
+    <file path="/View.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365083347954" ignored="false" />
+    <file path="/MainMenu.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365182409438" ignored="false" />
+    <file path="/Command.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365181358909" ignored="false" />
+    <file path="/Dummy.txt" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365696653206" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/client/src/main/app/html/page.html" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365697375761" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/client/src/main/app/js/pages/vocabulary/Search.js" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365399849983" ignored="false" />
+    <file path="/Search.js" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365399846359" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/server/src/main/scala/com/learningcircles/web/rest/request/SearchVocabulariesRequest.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365399232048" ignored="false" />
+    <file path="/SearchVocabulariesRequest.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365399227815" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/server/src/main/scala/com/learningcircles/web/rest/controller/VocabularyController.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365399330201" ignored="false" />
+    <file path="/VocabularyController.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365399330201" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/server/src/main/scala/com/learningcircles/web/rest/view/SearchVocabulariesResultsView.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365133633387" ignored="false" />
+    <file path="/a.dummy" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365133652817" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/client/src/main/app/template/pages/vocabulary/search.html" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365697806563" ignored="false" />
+    <file path="/search.html" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365697800609" ignored="false" />
+    <file path="$PROJECT_DIR$/../hsfi-trunk/hsfi-frontend/hsfi-frontend-webapp/src/main/resources/frontend.properties" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365148465066" ignored="false" />
+    <file path="/frontend.properties" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365148463486" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365148577654" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2_1.xsd" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365148577654" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspdirectives2_1.xsd" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365148577654" ignored="false" />
+    <file path="$PROJECT_DIR$/../hsfi-trunk/hsfi-frontend/hsfi-frontend-webapp/src/main/java/fi/sanoma/hs/frontend/security/SecureSessionIdFilter.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365159485675" ignored="false" />
+    <file path="/*.regexp" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365161730076" ignored="false" />
+    <file path="$PROJECT_DIR$/../hsfi-trunk/hsfi-frontend/hsfi-frontend-webapp/src/main/java/fi/sanoma/hs/frontend/security/SecurityService.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365166814857" ignored="false" />
+    <file path="/SecurityService.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365162372596" ignored="false" />
+    <file path="$PROJECT_DIR$/../hsfi-trunk/hsfi-frontend/hsfi-frontend-webapp/src/main/java/fi/sanoma/hs/frontend/controller/counter/StatisticsCounterController.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365167052650" ignored="false" />
+    <file path="/ExitCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365182591996" ignored="false" />
+    <file path="/DisplayMenuCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365254971423" ignored="false" />
+    <file path="/AddQuestionCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599436983" ignored="false" />
+    <file path="/QuestionDao.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365600912866" ignored="false" />
+    <file path="/DaoFactory.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365427954299" ignored="false" />
+    <file path="/ListQuestionsCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599578113" ignored="false" />
+    <file path="/InMemoryDao.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365183724274" ignored="false" />
+    <file path="/Question.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365601658749" ignored="false" />
+    <file path="/InMemoryQuestionDao.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599670056" ignored="false" />
+    <file path="/DeleteQuestionsCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599567961" ignored="false" />
+    <file path="/DisplayMainMenuCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365254852524" ignored="false" />
+    <file path="/DisplayOptionsCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365256340615" ignored="false" />
+    <file path="/UpdateQuestionsCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599597185" ignored="false" />
+    <file path="/DeleteQuestionCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599555887" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/server/src/main/scala/com/learningcircles/domain/vocabulary/VocabularyRepositoryImpl.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365697718753" ignored="false" />
+    <file path="/VocabularyRepositoryImpl.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365697718753" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/server/src/main/scala/com/learningcircles/domain/vocabulary/CustomVocabularyRepository.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365398513743" ignored="false" />
+    <file path="/CustomVocabularyRepository.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365398512328" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/config/config-local/src/main/resources/logback.xml" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365322569774" ignored="false" />
+    <file path="/ehcache.xml" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365333510627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/server/src/main/resources/ehcache.xml" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365333510627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/client/src/main/app/js/rest/Vocabularies.js" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365399308568" ignored="false" />
+    <file path="/Vocabularies.js" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365399302715" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/server/src/main/scala/com/learningcircles/domain/vocabulary/VocabularyRepository.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365335002563" ignored="false" />
+    <file path="/VocabularyRepository.scala" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365334410534" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/server/src/main/resources/learning-circles-rest-servlet.xml" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365337304637" ignored="false" />
+    <file path="/learning-circles-rest-servlet.xml" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365337303822" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/client/src/main/common/js/LC.js" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365397895895" ignored="false" />
+    <file path="/LC.js" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365397860327" ignored="false" />
+    <file path="$PROJECT_DIR$/../../IdeaProjects/learning-circles.com/client/src/main/common/js/pages/Loading.js" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365398029592" ignored="false" />
+    <file path="/Loading.js" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365397835991" ignored="false" />
+    <file path="/UpdateQuestionCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599590776" ignored="false" />
+    <file path="/InMemoryAnswerDao.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365442028304" ignored="false" />
+    <file path="/Answer.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365428149675" ignored="false" />
+    <file path="/AnswerDao.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365442017448" ignored="false" />
+    <file path="/AbstractInMemoryDao.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365440771086" ignored="false" />
+    <file path="/PracticeCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599584857" ignored="false" />
+    <file path="/ResetStatisticsCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365442553562" ignored="false" />
+    <file path="/ShowStatisticsCommand.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365442559929" ignored="false" />
+    <file path="/H2DataSource.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365589000784" ignored="false" />
+    <file path="/H2DataSourceFactory.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365587311296" ignored="false" />
+    <file path="/HsqlDataSourceFactory.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365588869711" ignored="false" />
+    <file path="/QuestionDaoImpl.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365601604841" ignored="false" />
+    <file path="/QuestionDaoImplTest.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599845651" ignored="false" />
+    <file path="/JdbcQuestionDaoTest.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365599363831" ignored="false" />
+    <file path="/JdbcQuestionDao.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365602309970" ignored="false" />
+    <file path="/JdbcQuestionsDaoListQuestionsTest.java" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365601544005" ignored="false" />
+    <file path="/questionListFixture.sql" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365602004437" ignored="false" />
+    <file path="/page.html" changelist="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" time="1365697375761" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dojo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="UpdateQuestionsCommand.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/dojo/client/UpdateQuestionsCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="66" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JdbcQuestionDaoSaveQuestionTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/dojo/dao/hsql/JdbcQuestionDaoSaveQuestionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="13" selection-start="381" selection-end="381" vertical-scroll-proportion="-1.3762376">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/dojo/model/Question.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/junit-4.11-sources.jar!/org/junit/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="18" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/dojo/MyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractDbTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/dojo/AbstractDbTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="22" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="questionListFixture.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/dojo/questionListFixture.sql">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="52" selection-start="134" selection-end="135" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuestionDao.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/dojo/dao/QuestionDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="27" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JdbcQuestionsDaoListQuestionsTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/dojo/dao/hsql/JdbcQuestionsDaoListQuestionsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="13" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JdbcQuestionDao.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/dojo/dao/hsql/JdbcQuestionDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="95" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/dojo/client/AddQuestionCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/client/DeleteQuestionCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/client/DeleteQuestionsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/client/ListQuestionsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/client/PracticeCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/client/UpdateQuestionCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/client/UpdateQuestionsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/dao/mem/InMemoryQuestionDao.java" />
+        <option value="$PROJECT_DIR$/src/test/dojo/dao/hsql/JdbcQuestionDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/dao/QuestionDao.java" />
+        <option value="$PROJECT_DIR$/src/test/dojo/dao/hsql/JdbcQuestionDaoSaveQuestionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/model/Question.java" />
+        <option value="$PROJECT_DIR$/src/test/dojo/questionListFixture.sql" />
+        <option value="$PROJECT_DIR$/src/test/dojo/dao/hsql/JdbcQuestionsDaoListQuestionsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/dojo/dao/hsql/JdbcQuestionDao.java" />
+        <option value="$PROJECT_DIR$/src/test/dojo/AbstractDbTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="50" />
+    <option name="y" value="22" />
+    <option name="width" value="1383" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages ProjectPane="true" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hsfi-branches-hsfi-4.3.4" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="Downloaded.Files.Path" value="$PROJECT_DIR$/lib" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dojo.client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/dojo" />
+      <recent name="$PROJECT_DIR$/src/resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dojo.client" />
+      <recent name="dojo.server.model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dojo" />
+      <recent name="dojo.support" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in dojo">
+    <configuration default="false" name="JdbcQuestionDaoSaveQuestionTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="dojo.dao.hsql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="dojo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dojo.dao.hsql" />
+      <option name="MAIN_CLASS_NAME" value="dojo.dao.hsql.JdbcQuestionDaoSaveQuestionTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JdbcQuestionDaoSaveQuestionTest.saveShouldReturnCorrectIdForTheThirdInsert" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="dojo.dao.hsql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="dojo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dojo.dao.hsql" />
+      <option name="MAIN_CLASS_NAME" value="dojo.dao.hsql.JdbcQuestionDaoSaveQuestionTest" />
+      <option name="METHOD_NAME" value="saveShouldReturnCorrectIdForTheThirdInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JdbcQuestionDaoSaveQuestionTest.saveShouldAddProperIdForInserts" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="dojo.dao.hsql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="dojo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dojo.dao.hsql" />
+      <option name="MAIN_CLASS_NAME" value="dojo.dao.hsql.JdbcQuestionDaoSaveQuestionTest" />
+      <option name="METHOD_NAME" value="saveShouldAddProperIdForInserts" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in dojo" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="dojo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JdbcQuestionsDaoListQuestionsTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="dojo.dao.hsql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="dojo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dojo.dao.hsql" />
+      <option name="MAIN_CLASS_NAME" value="dojo.dao.hsql.JdbcQuestionsDaoListQuestionsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.JdbcQuestionDaoSaveQuestionTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.JdbcQuestionDaoSaveQuestionTest.saveShouldReturnCorrectIdForTheThirdInsert" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.JdbcQuestionDaoSaveQuestionTest.saveShouldAddProperIdForInserts" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.All in dojo" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.JdbcQuestionsDaoListQuestionsTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in dojo" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.JdbcQuestionsDaoListQuestionsTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.JdbcQuestionDaoSaveQuestionTest.saveShouldReturnCorrectIdForTheThirdInsert" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.JdbcQuestionDaoSaveQuestionTest.saveShouldAddProperIdForInserts" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.JdbcQuestionDaoSaveQuestionTest" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5a40b2b-9c69-458c-ab05-570e3de7a2fc" name="Default" comment="" />
+      <created>1365064025935</created>
+      <updated>1365064025935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="50" y="22" width="1383" height="878" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981302" sideWeight="0.61081797" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26327598" sideWeight="0.70184696" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29815304" sideWeight="0.9992526" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3304904" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/dojo/client/DeleteQuestionsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="66" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dojo/client/ListQuestionsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="49" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dojo/client/PracticeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="48" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dojo/client/UpdateQuestionCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="79" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dojo/client/UpdateQuestionsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="66" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/dojo/jee.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="14" selection-start="0" selection-end="74" vertical-scroll-proportion="-0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dojo/dao/mem/InMemoryQuestionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/dojo/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.11-sources.jar!/org/junit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="18" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dojo/model/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/dojo/questionListFixture.sql">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="52" selection-start="134" selection-end="135" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dojo/dao/hsql/JdbcQuestionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="95" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/dojo/dao/QuestionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="27" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/dojo/AbstractDbTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="22" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/dojo/dao/hsql/JdbcQuestionsDaoListQuestionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/dojo/dao/hsql/JdbcQuestionDaoSaveQuestionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="381" selection-end="381" vertical-scroll-proportion="-1.3762376">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dojo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.springframework:spring-jdbc:3.0.6.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
